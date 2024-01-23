@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryancods
 - 👀 I’m interested in Computer Science especially front end
-- 🌱 I’m currently learning c++ and ui/ux design
+- 🌱 I’m currently learning software dev and ui/ux design
 - 💞️ I’m looking to collaborate on multiple projects with other like minded people towards a common goal
 - 📫 How to reach me my website
 
